@@ -1,7 +1,7 @@
 from typing import List
 
 
-def find_common_prefix(words: List[str]) -> str:
+def find_longest_common_prefix(words: List[str]) -> str:
     # If the list is empty, return an empty string
     if not words:
         return ""
@@ -36,4 +36,4 @@ def find_common_prefix(words: List[str]) -> str:
 
 
 sample_words = ["aa", "aab", "acc"]
-find_common_prefix(sample_words)  # common should be "a"
+find_longest_common_prefix(sample_words)  # common should be "a"
