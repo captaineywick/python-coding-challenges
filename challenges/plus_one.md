@@ -35,5 +35,3 @@ Constraints:
 * 1 <= digits.length <= 100
 * 0 <= digits\[i] <= 9
 * `digits` does not contain any leading 0's.
-
-
