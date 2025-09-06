@@ -15,6 +15,8 @@ I built this repo to practice consistently, and anyone is welcome to join in.
 
 ## Example Challenges
 - Convert integers to words
+- Best time to buy stocks III
+- Longest common prefix
 
 ## Getting Started
 1. Clone this repository:
